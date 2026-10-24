@@ -14,6 +14,9 @@ if (Test-Path "$TargetDir\BumbleSimulator.exe") {
 }
 $Shortcut.WorkingDirectory = $TargetDir
 $Shortcut.Description = "Bumble Dating Simulator - TANGAISIM (Cinema View 9:16)"
+if (Test-Path "$TargetDir\icon.ico") {
+    $Shortcut.IconLocation = "$TargetDir\icon.ico,0"
+}
 $Shortcut.Save()
 
 Write-Host "✅ Đã tạo shortcut 'Bumble Simulator' ra màn hình Desktop thành công!" -ForegroundColor Green
