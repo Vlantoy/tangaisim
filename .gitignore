@@ -6,6 +6,12 @@ __pycache__/
 venv/
 .venv/
 
+# PyInstaller Build Artifacts
+build/
+dist/
+*.spec
+*.exe
+
 # Temporary / PDF screenshots
 *.pdf
 Bai_nop.zip

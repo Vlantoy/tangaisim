@@ -6,13 +6,23 @@ import webbrowser
 import threading
 import unicodedata
 import re
+import sys
 from flask import Flask, jsonify, request, send_from_directory, render_template
 
-app = Flask(__name__, static_folder='static', template_folder='templates')
+# Support PyInstaller standalone packaging
+if getattr(sys, 'frozen', False):
+    BASE_DIR = os.path.dirname(sys.executable)
+    BUNDLE_DIR = getattr(sys, '_MEIPASS', BASE_DIR)
+else:
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    BUNDLE_DIR = BASE_DIR
+
+static_folder = os.path.join(BUNDLE_DIR, 'static')
+template_folder = os.path.join(BUNDLE_DIR, 'templates')
+
+app = Flask(__name__, static_folder=static_folder, template_folder=template_folder)
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
-
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 def slugify_vn(text):
     text = unicodedata.normalize('NFKD', text)

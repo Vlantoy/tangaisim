@@ -31,12 +31,17 @@
 
 ---
 
-## 🚀 Hướng Dẫn Chạy Cục Bộ (Local)
+## 🚀 Hướng Dẫn Sử Dụng (Desktop App & Web)
 
-### Cách 1: Chạy trực tiếp file HTML (Không cần cài đặt gì)
+### Cách 1: Ứng Dụng Desktop App (Tiện lợi nhất - Khuyên dùng)
+* Nhấp đúp vào biểu tượng shortcut **`Bumble Simulator`** ngoài màn hình **Desktop** (hoặc chạy file `BumbleSimulator.exe` / `Chay_Bumble_Sim.bat` trong thư mục dự án).
+* Mở ra cửa sổ ứng dụng Windows Native độc lập, không thanh URL, không tab trình duyệt thừa thãi, căn chuẩn tỉ lệ Cinema 9:16.
+* Kết nối trực tiếp với database máy tính: Mọi thao tác sửa tin nhắn, đổi thứ tự, thêm case trong Admin đều **được ghi trực tiếp vào các file JSON database trong máy**.
+
+### Cách 2: Chạy trực tiếp file HTML (Không cần cài đặt gì)
 Mở trực tiếp file `index.html` hoặc `Bumble_Sim.html` bằng bất kỳ trình duyệt nào (Chrome, Edge, Safari, Firefox). Ứng dụng đã được đóng gói toàn bộ CSS, JS và dữ liệu 19 cuộc trò chuyện vào một file duy nhất.
 
-### Cách 2: Chạy qua Python Flask Server
+### Cách 3: Chạy qua Python Flask Server
 ```bash
 # 1. Cài đặt Flask nếu chưa có
 pip install flask
