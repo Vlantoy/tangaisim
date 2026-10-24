@@ -1,0 +1,1168 @@
+{
+  "cuoc_tro_chuyen": {
+    "doi_tuong": "Myy",
+    "chu_thich_mau": {
+      "nen_trang": "Đối phương (Myy)",
+      "nen_vang": "Mình (Anh Hoang)"
+    },
+    "tin_nhan": [
+      {
+        "id": 1,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":>"
+      },
+      {
+        "id": 2,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "thế anh học trường gì thế"
+      },
+      {
+        "id": 3,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Em đoán đúng r, nhưng lại lung lay :>"
+      },
+      {
+        "id": 4,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ố :))"
+      },
+      {
+        "id": 5,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "thế em nghĩ em phải hỏi anh câu này trc kho tiếp tục nói chuyện"
+      },
+      {
+        "id": 6,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "anh định sẽ an cư lập nghiệp ở HN hay TH ạ?"
+      },
+      {
+        "id": 7,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Điều đó quan trọng với em hở"
+      },
+      {
+        "id": 8,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "vâng :))"
+      },
+      {
+        "id": 9,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "rất quan trọng"
+      },
+      {
+        "id": 10,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Với a thì ngược lại"
+      },
+      {
+        "id": 11,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Đố e biết vì sao"
+      },
+      {
+        "id": 12,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "anh định kiểu tình yêu chiến thắng tất cả à"
+      },
+      {
+        "id": 13,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":))))"
+      },
+      {
+        "id": 14,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Thế thì lại simp lỏd quá 😄"
+      },
+      {
+        "id": 15,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "thế như nào ạ"
+      },
+      {
+        "id": 16,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Vì a ở đâu cũng phát triển được"
+      },
+      {
+        "id": 17,
+        "loai": "gif",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "[GIF Bugs Bunny - GIPHY]",
+        "thoi_gian": "21:16"
+      },
+      {
+        "id": 18,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "à :))))"
+      },
+      {
+        "id": 19,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "không nhưng mà em hỏi thật"
+      },
+      {
+        "id": 20,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "kiểu em thấy có người bố mẹ ở quê nên sau này muốn lấy vợ ở quê để ở gần bố mẹ các thứ ấy"
+      },
+      {
+        "id": 21,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Vậy là e chọn ở lại HN chứ gì 😄"
+      },
+      {
+        "id": 22,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "thì bố mẹ em ở HN mà :))"
+      },
+      {
+        "id": 23,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Vậy thì tốt rồi"
+      },
+      {
+        "id": 24,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "A cũng đang có nhiều dự đính vs HN"
+      },
+      {
+        "id": 25,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "tốt roài"
+      },
+      {
+        "id": 26,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "em thấy c gái em lấy chồng ở tít Thái Bình"
+      },
+      {
+        "id": 27,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "Tết k đc về nhà là buồn thiu"
+      },
+      {
+        "id": 28,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "nên em bảo mẹ là con quyết tâm phải tìm chồng cùng quê :))"
+      },
+      {
+        "id": 29,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Xem ra a tới đúng lúc nhỉ"
+      },
+      {
+        "id": 30,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "cũng chưa bíc"
+      },
+      {
+        "id": 31,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "anh 2k6 ạ?"
+      },
+      {
+        "id": 32,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "A hơn e 1 tuổi cơ"
+      },
+      {
+        "id": 33,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Chả biết như nào bumble lại ra 20 🤣"
+      },
+      {
+        "id": 34,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "là 2k3 ấy ạ?"
+      },
+      {
+        "id": 35,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Chuýnh xác"
+      },
+      {
+        "id": 36,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ôi"
+      },
+      {
+        "id": 37,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "chứ đoạn này mà anh ừ 1 phát là em biến mất luôn :)))))",
+        "tra_loi_cho": {
+          "nguoi_gui": "Myy",
+          "noi_dung": "anh 2k6 ạ?"
+        }
+      },
+      {
+        "id": 38,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Biết thế ừ, để cho em đc khai sáng 😆"
+      },
+      {
+        "id": 39,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Dù nếu là 2k6, tôi vẫn có lý do để e ở lại"
+      },
+      {
+        "id": 40,
+        "loai": "voice",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "[Tin nhắn thoại 00:25]"
+      },
+      {
+        "id": 41,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "lý do rìi",
+        "tra_loi_cho": {
+          "nguoi_gui": "Anh Hoang",
+          "noi_dung": "Dù nếu là 2k6, tôi vẫn có lý d..."
+        }
+      },
+      {
+        "id": 42,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Có người 96 nhưng tâm hồn 2k6, có người 2k4 tâm hồn lại như 94 🤭"
+      },
+      {
+        "id": 43,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":))))) cái đấy thì phải tiếp xúc lâu mới bíc được"
+      },
+      {
+        "id": 44,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "nhưng mà 2k6 cũng k hợp tuổi nên em say no :))))))"
+      },
+      {
+        "id": 45,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Oh giờ a mới biết e hệ tâm linh đấy"
+      },
+      {
+        "id": 46,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Cứ ngỡ là vô cùng lý trí kkk"
+      },
+      {
+        "id": 47,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "em là tarot reader mà :)))"
+      },
+      {
+        "id": 48,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "em đang cố cân bằng cả 2",
+        "tra_loi_cho": {
+          "nguoi_gui": "Anh Hoang",
+          "noi_dung": "Cứ ngỡ là vô cùng lý trí kkk"
+        }
+      },
+      {
+        "id": 49,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "vì em là cung ma kết :)))"
+      },
+      {
+        "id": 50,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Aww người thường nghe ng khác tâm sự nhưng con tim mình lại ít đc lên tiếng",
+        "tra_loi_cho": {
+          "nguoi_gui": "Myy",
+          "noi_dung": "em là tarot reader mà :)))"
+        }
+      },
+      {
+        "id": 51,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "bingo"
+      },
+      {
+        "id": 52,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "nhưng dạo này em bận nên k xem nữa òii"
+      },
+      {
+        "id": 53,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Tư bản bào cô gái bé nhỏ quá à 😆"
+      },
+      {
+        "id": 54,
+        "loai": "voice",
+        "nguoi_gui": "Myy",
+        "noi_dung": "[Tin nhắn thoại 00:11]"
+      },
+      {
+        "id": 55,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Ắt phải có 1 mục tiêu to lớn"
+      },
+      {
+        "id": 56,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Chứ k lý nào 1 cô gái bé nhỏ lại vua lý đòn như thế đc"
+      },
+      {
+        "id": 57,
+        "loai": "gif",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "[GIF - GIPHY]"
+      },
+      {
+        "id": 58,
+        "loai": "voice",
+        "nguoi_gui": "Myy",
+        "noi_dung": "[Tin nhắn thoại 00:29]"
+      },
+      {
+        "id": 59,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Kb cùng đường k"
+      },
+      {
+        "id": 60,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Chứ a cũng thế nàng ạ 😄",
+        "trang_thai": "Delivered"
+      },
+      {
+        "id": 61,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "sao ạ"
+      },
+      {
+        "id": 62,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Cung đường trùng trên 90% r đấy =)))"
+      },
+      {
+        "id": 63,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ố"
+      },
+      {
+        "id": 64,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "anh làm ở đâu"
+      },
+      {
+        "id": 65,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "sao lại trùng nhiều thế đc"
+      },
+      {
+        "id": 66,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "toai k tin"
+      },
+      {
+        "id": 67,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Cũng phải"
+      },
+      {
+        "id": 68,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Đến a còn ngạc nhiên cơ mà"
+      },
+      {
+        "id": 69,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "là cụ thể của anh như nàoo"
+      },
+      {
+        "id": 70,
+        "loai": "text",
+        "moc_thoi_gian": "Today",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "E hay sang giải phóng chơi k"
+      },
+      {
+        "id": 71,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "em không đi chơi :)))"
+      },
+      {
+        "id": 72,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "nhà em xa nên rủ em đi chơi là em lười lắm"
+      },
+      {
+        "id": 73,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Ngay cạnh mà 😵"
+      },
+      {
+        "id": 74,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "anh có thấy này giờ đoạn nào thông tin dài quá là em voice k lười tới mức đó á :)))))"
+      },
+      {
+        "id": 75,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Vậy thì chúng ta có cùng idea cho 1 ngày cuối tuần tuyệt vời rồi đọ"
+      },
+      {
+        "id": 76,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ngủ ạ?"
+      },
+      {
+        "id": 77,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "cái này sở trường của em"
+      },
+      {
+        "id": 78,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":)))"
+      },
+      {
+        "id": 79,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "hội người lười VN"
+      },
+      {
+        "id": 80,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Nhưng e bt điều tuyệt vời hơn kh"
+      },
+      {
+        "id": 81,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "bảo sao mãi k thấy có ngyeu"
+      },
+      {
+        "id": 82,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "giờ anh nói là em biết nè",
+        "tra_loi_cho": {
+          "nguoi_gui": "Anh Hoang",
+          "noi_dung": "Nhưng e bt điều tuyệt vời hơ..."
+        }
+      },
+      {
+        "id": 83,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Là trc khi ngủ, có 1 ng khiến mình cảm thấy nhẹ lòng sau khi tỉ tê đủ thứ trong ngày ☕"
+      },
+      {
+        "id": 84,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":))))"
+      },
+      {
+        "id": 85,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "lại còn icon ly cà phê"
+      },
+      {
+        "id": 86,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ôi tâm hồn 93 à anh ơi"
+      },
+      {
+        "id": 87,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Cốt dừa đấy"
+      },
+      {
+        "id": 88,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Đen dở óc"
+      },
+      {
+        "id": 89,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":))))"
+      },
+      {
+        "id": 90,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "em k đc cà phê"
+      },
+      {
+        "id": 91,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "nma em có bán đấy"
+      },
+      {
+        "id": 92,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "E biết pha là có khách ruột mỗi ngày đấy [emoji]"
+      },
+      {
+        "id": 93,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "à em có chứ"
+      },
+      {
+        "id": 94,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":))"
+      },
+      {
+        "id": 95,
+        "loai": "image",
+        "nguoi_gui": "Myy",
+        "noi_dung": "[Ảnh chụp bài đăng/video tin tức về doanh nghiệp]"
+      },
+      {
+        "id": 96,
+        "loai": "video",
+        "nguoi_gui": "Myy",
+        "noi_dung": "[Video 0:50]"
+      },
+      {
+        "id": 97,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "em là nhỏ đang cầm mic đó :)))"
+      },
+      {
+        "id": 98,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "My nhà tôi đó, bình tĩnh, bản lĩnh, Thanh Nghệ Tĩnh 😄"
+      },
+      {
+        "id": 99,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":)))))"
+      },
+      {
+        "id": 100,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "run gần chớt cha ơi cha"
+      },
+      {
+        "id": 101,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "hôm đó run mém rớt mic mấy lần"
+      },
+      {
+        "id": 102,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Do k có điểm tựa tinh thần cổ vũ ở dưới đấy 🤭"
+      },
+      {
+        "id": 103,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "òoo"
+      },
+      {
+        "id": 104,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "cũng đúng he"
+      },
+      {
+        "id": 105,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "độc thân lâu quá cũng quên mất đấy"
+      },
+      {
+        "id": 106,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Ông trời luôn fair mà"
+      },
+      {
+        "id": 107,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Phải qua những lúc trời mây đen mới càng trân quý ngày nắng đẹp"
+      },
+      {
+        "id": 108,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":)))"
+      },
+      {
+        "id": 109,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "thế ngày nào là ngày mây đen"
+      },
+      {
+        "id": 110,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "mà khi nào mới nắng đẹp ạ?"
+      },
+      {
+        "id": 111,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Ngày mây đen, em vẫn cười vui vẻ và vẫn làm những công việc thường ngày"
+      },
+      {
+        "id": 112,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Nhưng đến cuối ngày, em lại thấy cảm xúc của mình thiếu vắng 1 điều gì đó"
+      },
+      {
+        "id": 113,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Còn ngày nắng đẹp, dù có nhiều thứ xảy ra k như mong muốn"
+      },
+      {
+        "id": 114,
+        "loai": "voice",
+        "nguoi_gui": "Myy",
+        "noi_dung": "[Tin nhắn thoại 00:08]"
+      },
+      {
+        "id": 115,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "E vẫn hihi haha rồi mới nhắm mắt"
+      },
+      {
+        "id": 116,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "quàoo"
+      },
+      {
+        "id": 117,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "quà tặng cuộc sống"
+      },
+      {
+        "id": 118,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "truyện kể bé nghe trước giờ đi ngủ ạ"
+      },
+      {
+        "id": 119,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Đủ để e thấy yên bình hơn 1 chút chưa 😄"
+      },
+      {
+        "id": 120,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":))))"
+      },
+      {
+        "id": 121,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "em hỏi thật"
+      },
+      {
+        "id": 122,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "bthg anh có hay nói chuyện như thế không"
+      },
+      {
+        "id": 123,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "A là người lúc cần vui sẽ vui, lúc ai đó cần vỗ về sẽ vỗ về"
+      },
+      {
+        "id": 124,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ô thế cũng đúng lúc đấy"
+      },
+      {
+        "id": 125,
+        "loai": "sticker",
+        "nguoi_gui": "Myy",
+        "noi_dung": "[Video/GIF SpongeBob 1:16]"
+      },
+      {
+        "id": 126,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "nay em hơi buồn"
+      },
+      {
+        "id": 127,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "mà anh làm em cười nãy giờ :)))"
+      },
+      {
+        "id": 128,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Thế bây h thích nch buồn hay chuyện cười lào 😄"
+      },
+      {
+        "id": 129,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "chuyện cười đi ạ"
+      },
+      {
+        "id": 130,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Okay của e hết 5lit"
+      },
+      {
+        "id": 131,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "?"
+      },
+      {
+        "id": 132,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "thế cho em chuyện buồn"
+      },
+      {
+        "id": 133,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Ơ kìa chuyện cười k cười à",
+        "tra_loi_cho": {
+          "nguoi_gui": "Anh Hoang",
+          "noi_dung": "Okay của e hết 5lit"
+        }
+      },
+      {
+        "id": 134,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":)))) à thế à"
+      },
+      {
+        "id": 135,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "vâng em cười rồi"
+      },
+      {
+        "id": 136,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Cười kiểu này phải thêm cù hông mới đủ đô :)))"
+      },
+      {
+        "id": 137,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":))))))))))) thôi"
+      },
+      {
+        "id": 138,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "em thấy cx đủ rồi ạ"
+      },
+      {
+        "id": 139,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Hnay nàng vui như vậy là thành công của ta rồi"
+      },
+      {
+        "id": 140,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Giờ thì nhắm mắt thôi"
+      },
+      {
+        "id": 141,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Mai còn thực tập k lương 😄"
+      },
+      {
+        "id": 142,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "à tuần này em đang phải xin nghỉ"
+      },
+      {
+        "id": 143,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ở nhà đưa 2 nhỏ cháu đi học giúp chị em"
+      },
+      {
+        "id": 144,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "nhưng mà 7h15 cũng phải dậy òi"
+      },
+      {
+        "id": 145,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Nhất 2 đứa cháu"
+      },
+      {
+        "id": 146,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Đc cô mù đường dèo đi học"
+      },
+      {
+        "id": 147,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ô anh nhầm"
+      },
+      {
+        "id": 148,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "cấp 1 với mẫu giáo"
+      },
+      {
+        "id": 149,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "em đi hơi bị thạo:)))"
+      },
+      {
+        "id": 150,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "mà sao anh biết em mù đường"
+      },
+      {
+        "id": 151,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "dì nha",
+        "tra_loi_cho": {
+          "nguoi_gui": "Anh Hoang",
+          "noi_dung": "Đc cô mù đường đèo đi học"
+        }
+      },
+      {
+        "id": 152,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Đâu phải cái gì cũng cần hỏi mới biết 😆",
+        "tra_loi_cho": {
+          "nguoi_gui": "Myy",
+          "noi_dung": "mà sao anh biết em mù đường"
+        }
+      },
+      {
+        "id": 153,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":))))"
+      },
+      {
+        "id": 154,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ôi nhưng mà tự dưng đói quá"
+      },
+      {
+        "id": 155,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ye..."
+      },
+      {
+        "id": 156,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Mai khả năng 2 đứa cháu muốn học 🤭"
+      },
+      {
+        "id": 157,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "không có đâu"
+      },
+      {
+        "id": 158,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "c em sẽ gọi em dậy từ 7h"
+      },
+      {
+        "id": 159,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Giờ này bụng réo vẫn có good choice"
+      },
+      {
+        "id": 160,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Nhưng gần nhà mình thường lại k có 😆"
+      },
+      {
+        "id": 161,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "đúm òi..."
+      },
+      {
+        "id": 162,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "khu nhà em tầm này khó book ship lém"
+      },
+      {
+        "id": 163,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ơ nhưng sao app hiện mình cách nhau có 5km nhỉ"
+      },
+      {
+        "id": 164,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "anh ở khu nào vậy"
+      },
+      {
+        "id": 165,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Này a hỏi giải phóng đấy :v"
+      },
+      {
+        "id": 166,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Có khi còn chưa đc 5km"
+      },
+      {
+        "id": 167,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ùuu"
+      },
+      {
+        "id": 168,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "anh có dùng ig k ạ"
+      },
+      {
+        "id": 169,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Nma tự nhiên hôm trc bị khóa fb xong khóa luôn cả IG [emoji]"
+      },
+      {
+        "id": 170,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Đang đợi bên dv lấy lại"
+      },
+      {
+        "id": 171,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ô làm gì mà bị khoá thế ạ",
+        "tra_loi_cho": {
+          "nguoi_gui": "Anh Hoang",
+          "noi_dung": "Nma tự nhiên hôm trc bị khó..."
+        }
+      },
+      {
+        "id": 172,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Dunno"
+      },
+      {
+        "id": 173,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Thấy bảo đợt quét j j đó"
+      },
+      {
+        "id": 174,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Xui thì dính :))))"
+      },
+      {
+        "id": 175,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "Ng k sao vẫn vô tư yêu đời như vậy đó 😆",
+        "tra_loi_cho": {
+          "nguoi_gui": "Anh Hoang",
+          "noi_dung": "ô làm gì mà bị khoá thế ạ"
+        }
+      },
+      {
+        "id": 176,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":))))) trvia mấy đợt quét quét kiểu này em chưa bị bao giờ",
+        "tra_loi_cho": {
+          "nguoi_gui": "Anh Hoang",
+          "noi_dung": "Thấy bảo đợt quét j j đó"
+        }
+      },
+      {
+        "id": 177,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "E có tin trong cái rủi có cái may k"
+      },
+      {
+        "id": 178,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "em có ạ"
+      },
+      {
+        "id": 179,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "thế cái may của anh là gì"
+      },
+      {
+        "id": 180,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Nếu k bị quét 2 đứa mình đã k tìm thấy nhau 😅"
+      },
+      {
+        "id": 181,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ồ"
+      },
+      {
+        "id": 182,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": ":))"
+      },
+      {
+        "id": 183,
+        "loai": "text",
+        "nguoi_gui": "Anh Hoang",
+        "noi_dung": "Rất nồi nõm [emoji]"
+      },
+      {
+        "id": 184,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "ồ sao"
+      },
+      {
+        "id": 185,
+        "loai": "text",
+        "nguoi_gui": "Myy",
+        "noi_dung": "em thấy em bthg mò"
+      }
+    ]
+  }
+}

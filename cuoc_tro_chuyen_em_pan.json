@@ -1,0 +1,21 @@
+{
+  "cuoc_tro_chuyen": {
+    "doi_tuong": "Em Pan",
+    "chu_thich_mau": {
+      "nen_trang": "Đối phương (Em Pan)",
+      "nen_vang": "Mình (Anh Hoang)"
+    },
+    "tin_nhan": [
+      {"id": 1, "nguoi_gui": "Em Pan", "loai": "text", "ngay": "Hôm nay", "noi_dung": "bd khó tránh là sao hả cậu"},
+      {"id": 2, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Liên quan tới 1 người trong quá khứ"},
+      {"id": 3, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Cũng thích cf và RnB giống em 😁"},
+      {"id": 4, "nguoi_gui": "Em Pan", "loai": "text", "ngay": "Hôm nay", "noi_dung": "=)))"},
+      {"id": 5, "nguoi_gui": "Em Pan", "loai": "text", "ngay": "Hôm nay", "noi_dung": "khó quên và né tránh hả a"},
+      {"id": 6, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Khó tránh khỏi cái kết đẹp vs ng nói nhiều =)))"},
+      {"id": 7, "nguoi_gui": "Em Pan", "loai": "text", "ngay": "Hôm nay", "noi_dung": ":)) tui nói ít lắm á nghen"},
+      {"id": 8, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Hành động mới là thứ tạo nên cảm xúc, right? :)))"},
+      {"id": 9, "nguoi_gui": "Em Pan", "loai": "text", "ngay": "Hôm nay", "noi_dung": "không cãi được cc :))"},
+      {"id": 10, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Vậy là đồng nghĩa tâm đầu ý hợp r đấy 😀"}
+    ]
+  }
+}

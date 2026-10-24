@@ -1,0 +1,30 @@
+{
+  "cuoc_tro_chuyen": {
+    "doi_tuong": "Nga",
+    "chu_thich_mau": {
+      "nen_trang": "Đối phương (Nga)",
+      "nen_vang": "Mình (Anh Hoang)"
+    },
+    "tin_nhan": [
+      {"id": 1, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "A đã k tin có ng hướng ngoại hay ngại"},
+      {"id": 2, "nguoi_gui": "Nga", "loai": "text", "noi_dung": "=))))) là s anh ơi"},
+      {"id": 3, "nguoi_gui": "Nga", "loai": "text", "noi_dung": "em k hiểu"},
+      {"id": 4, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Cho đến khi thấy e 😄", "tra_loi_cho": {"nguoi_gui": "Anh Hoang", "noi_dung": "A đã k tin có ng hướng ngoại..."}},
+      {"id": 5, "nguoi_gui": "Nga", "loai": "text", "noi_dung": "=))))) ngại vì k cùng dcap à a"},
+      {"id": 6, "nguoi_gui": "Nga", "loai": "text", "noi_dung": "em ăn k hành"},
+      {"id": 7, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Thế thì e phải vui mới đúng"},
+      {"id": 8, "nguoi_gui": "Nga", "loai": "text", "noi_dung": "=))))) vui cgi anh"},
+      {"id": 9, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "E sẽ có cơ hội nói câu thần chú 'a oiii bát e có hànhhh'"},
+      {"id": 10, "nguoi_gui": "Nga", "loai": "text", "noi_dung": "ái dààa"},
+      {"id": 11, "nguoi_gui": "Nga", "loai": "text", "noi_dung": "anh k nhớ để dặn quán cho em ahhhh"},
+      {"id": 12, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Cố tình đấy, còn để e có cơ đc những nhèo chứ 😄"},
+      {"id": 13, "nguoi_gui": "Nga", "loai": "text", "noi_dung": "thuiiii"},
+      {"id": 14, "nguoi_gui": "Nga", "loai": "text", "noi_dung": "những nhèo nhiều lỡ a thấy phiền cho 1 chuỳ vào mõm e thì s"},
+      {"id": 15, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "E thích chùy Tràng Tiền hay Celano nào"},
+      {"id": 16, "nguoi_gui": "Nga", "loai": "text", "noi_dung": "celanooo"},
+      {"id": 17, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Còn vị thì sao nhỏ"},
+      {"id": 18, "nguoi_gui": "Nga", "loai": "text", "noi_dung": "sicula với dâuuu"},
+      {"id": 19, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "E lại thiếu mattcha r"}
+    ]
+  }
+}

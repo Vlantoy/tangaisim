@@ -1,0 +1,23 @@
+{
+  "cuoc_tro_chuyen": {
+    "doi_tuong": "Ly",
+    "chu_thich_mau": {
+      "nen_trang": "Đối phương (Ly)",
+      "nen_vang": "Mình (Anh Hoang)"
+    },
+    "tin_nhan": [
+      {"id": 1, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Khí chất ăn ảnh đấy, e tìm đc thử còn thiếu chưa"},
+      {"id": 2, "nguoi_gui": "Ly", "loai": "text", "ngay": "Hôm nay", "noi_dung": "phải là chính ảnh ôk chứ"},
+      {"id": 3, "nguoi_gui": "Ly", "loai": "text", "ngay": "Hôm nay", "noi_dung": "thiếu gì hả a", "tra_loi_cho": {"nguoi_gui": "Anh Hoang", "noi_dung": "Khí chất ăn ảnh đấy, e tìm đc..."}},
+      {"id": 4, "nguoi_gui": "Anh Hoang", "loai": "image", "ngay": "Hôm nay", "noi_dung": "[Ảnh cửa hàng hoa với nhiều bó hoa đủ màu]", "thoi_gian": "18:44"},
+      {"id": 5, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Mời nàng chọn"},
+      {"id": 6, "nguoi_gui": "Ly", "loai": "text", "ngay": "Hôm nay", "noi_dung": "bó nào cũng xinh"},
+      {"id": 7, "nguoi_gui": "Ly", "loai": "text", "ngay": "Hôm nay", "noi_dung": "e thít bó có tên e"},
+      {"id": 8, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Vậy thì background là 1 nơi có nền trắng nhờ"},
+      {"id": 9, "nguoi_gui": "Ly", "loai": "text", "ngay": "Hôm nay", "noi_dung": "s lại thế"},
+      {"id": 10, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Chưa biết thử đi sẽ thích 😁"},
+      {"id": 11, "nguoi_gui": "Ly", "loai": "text", "ngay": "Hôm nay", "noi_dung": "thử cái gì mới đc"},
+      {"id": 12, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "E có hay diện công chúa k"}
+    ]
+  }
+}

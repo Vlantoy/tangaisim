@@ -1,0 +1,35 @@
+{
+  "cuoc_tro_chuyen": {
+    "doi_tuong": "Thd",
+    "chu_thich_mau": {
+      "nen_trang": "Đối phương (Thd)",
+      "nen_vang": "Mình (Anh Hoang)"
+    },
+    "tin_nhan": [
+      {"id": 1, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "A có 10 ý tưởng để điền vào chỗ trống của e r 😸"},
+      {"id": 2, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "là gì vậy anh Khó Tránh"},
+      {"id": 3, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Pí mật"},
+      {"id": 4, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Mỗi lần gặp thử 1 cái xem e có trầm trồ 🙂"},
+      {"id": 5, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "=))) thế gặp 10 lần là hết à"},
+      {"id": 6, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "có được gia hạn không ạ"},
+      {"id": 7, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Mùa 1 mà hết ta lại có mùa 2 😎"},
+      {"id": 8, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "=))) cười quá"},
+      {"id": 9, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "nma e k án hành thì sao..."},
+      {"id": 10, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "E sẽ có cơ hội nói câu thần chú 'a oiii bát e có hànhhh'"},
+      {"id": 11, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "thế e có được nói"},
+      {"id": 12, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "anh oiii em đóiii không"},
+      {"id": 13, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Bên cạnh a em thích nói gì cũng đc hết"},
+      {"id": 14, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Miễn biết đấm lưng 😄"},
+      {"id": 15, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "a bị đau lưng à"},
+      {"id": 16, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "salonpas đi anh"},
+      {"id": 17, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Ngồi máy matxa thích hơn chứ"},
+      {"id": 18, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "máy matxa chạy bằng cơm"},
+      {"id": 19, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Phở cũng ngon mà nhờ"},
+      {"id": 20, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "chạy bằng bún chả"},
+      {"id": 21, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Chứ kp bánh đa soo 😄"},
+      {"id": 22, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "bắt quả tang củ đêm"},
+      {"id": 23, "nguoi_gui": "Thd", "loai": "text", "noi_dung": "bánh đa cua", "tra_loi_cho": {"nguoi_gui": "Anh Hoang", "noi_dung": "Chứ kp bánh đa soo 😄"}},
+      {"id": 24, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Lý do chắc cũng giống nhau nhờ 😝", "tra_loi_cho": {"nguoi_gui": "Thd", "noi_dung": "bắt quả tang củ đêm"}}
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "cuoc_tro_chuyen": {
+    "doi_tuong": "Hương",
+    "chu_thich_mau": {
+      "nen_trang": "Đối phương (Hương)",
+      "nen_vang": "Mình"
+    },
+    "tin_nhan": [
+      {"id": 1, "nguoi_gui": "Mình", "loai": "text", "ngay": "Hôm qua", "noi_dung": "Trông e rất designer nhưng tôi chưa thể chứng minh đc =)))"},
+      {"id": 2, "nguoi_gui": "Hương", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Chứng minh thử xem nàooo"},
+      {"id": 3, "nguoi_gui": "Mình", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Phu nhân gửi ta tấm ảnh ngồi PC là rõ 😄"},
+      {"id": 4, "nguoi_gui": "Hương", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Ý kiến hay đó"},
+      {"id": 5, "nguoi_gui": "Hương", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Nhưng chưa đúng oi"},
+      {"id": 6, "nguoi_gui": "Mình", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Well đấy lại là điều tốt bé ạ"},
+      {"id": 7, "nguoi_gui": "Hương", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Giờ mới làm về mình ạ"},
+      {"id": 8, "nguoi_gui": "Mình", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Vậy là hnay anh và em có chung giờ ăn tối r đấy 🤭"},
+      {"id": 9, "nguoi_gui": "Hương", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Thế mình ăn gì đó"},
+      {"id": 10, "nguoi_gui": "Mình", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Maybe trùng món nước e thích đấy"},
+      {"id": 11, "nguoi_gui": "Hương", "loai": "text", "ngay": "Hôm nay", "noi_dung": "E thích nhiu món nước lắmm"},
+      {"id": 12, "nguoi_gui": "Mình", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Tất nhiên là k thiếu món của Huế r nhờ"},
+      {"id": 13, "nguoi_gui": "Hương", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Bún bò huế hả"},
+      {"id": 14, "nguoi_gui": "Mình", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Đúng thứ e cần chưa 😄"},
+      {"id": 15, "nguoi_gui": "Hương", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Món e thích"},
+      {"id": 16, "nguoi_gui": "Hương", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Chứ nay ăn cái khácccc"},
+      {"id": 17, "nguoi_gui": "Mình", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Đú để a hiểu hnay e có nhiều thứ để kể r đấy", "tra_loi_cho": {"nguoi_gui": "Hương", "noi_dung": "Chứ nay ăn cái khácccc"}}
+    ]
+  }
+}

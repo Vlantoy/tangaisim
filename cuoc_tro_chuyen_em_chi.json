@@ -1,0 +1,21 @@
+{
+  "cuoc_tro_chuyen": {
+    "doi_tuong": "Em Chi",
+    "chu_thich_mau": {
+      "nen_trang": "Đối phương (Em Chi)",
+      "nen_vang": "Mình (Anh Hoang)"
+    },
+    "tin_nhan": [
+      {"id": 1, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Nào, lên xe chúng ta đi thôi"},
+      {"id": 2, "nguoi_gui": "Em Chi", "loai": "text", "noi_dung": "nhma tớ ăn phở không hành ạ"},
+      {"id": 3, "nguoi_gui": "Em Chi", "loai": "text", "noi_dung": "😭😭😭"},
+      {"id": 4, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "A cũng k có ý định thay đổi điều đó ở em đâu"},
+      {"id": 5, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Chỉ trêu thôi 😄"},
+      {"id": 6, "nguoi_gui": "Em Chi", "loai": "text", "noi_dung": "đi đâu zj", "tra_loi_cho": {"nguoi_gui": "Anh Hoang", "noi_dung": "Nào, lên xe chúng ta đi thôi"}},
+      {"id": 7, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Cho e đoán 1 abg girl sẽ hợp tới đâu 😇"},
+      {"id": 8, "nguoi_gui": "Em Chi", "loai": "text", "noi_dung": "đi vào sephora"},
+      {"id": 9, "nguoi_gui": "Em Chi", "loai": "text", "noi_dung": "😍✌️"},
+      {"id": 10, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "Nice choice, thưởng ngay son hồng cánh sen"}
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Bumble Simulator - Cinema View (9:16)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css?v=20261023_admin2">
+</head>
+<body>
+
+  <!-- Ambient Cinema Lighting -->
+  <div class="cinema-vignette"></div>
+  <div class="cinema-glow glow-yellow"></div>
+  <div class="cinema-glow glow-blue"></div>
+
+  <!-- Cinema Stage Layout (3-Column Flexbox) -->
+  <div class="cinema-stage">
+    
+    <!-- LEFT WING: Cinema Mode & Context Insight -->
+    <aside class="cinema-wing left-wing">
+      <div class="glass-card brand-card">
+        <div class="cinema-badge">🎬 CINEMA PERSPECTIVE</div>
+        <h1 class="brand-title">Bumble Sim</h1>
+        <p class="brand-desc">Góc nhìn quan sát tình huống thực tế</p>
+      </div>
+
+      <div class="glass-card status-card">
+        <div class="card-title">🎯 Tình huống hiện tại</div>
+        <div class="cinema-metric">
+          <span class="metric-label">Đối tượng:</span>
+          <strong class="metric-val" id="cinemaPartnerName">Annie</strong>
+        </div>
+        <div class="cinema-metric">
+          <span class="metric-label">Tiến trình:</span>
+          <strong class="metric-val" id="cinemaTurnProgress">Lượt 1 / 10</strong>
+        </div>
+        <div class="cinema-metric">
+          <span class="metric-label">Tỉ lệ màn hình:</span>
+          <span class="metric-badge">📱 9 : 16 Smartphone</span>
+        </div>
+      </div>
+
+      <div class="glass-card tips-card">
+        <div class="card-title">🧠 Mẹo phân tích cinema</div>
+        <div class="tip-box">
+          <div class="tip-title">1. Bắt sóng tone giọng</div>
+          <div class="tip-desc">Cuộn lên đọc vài tin trước xem bạn nữ đang trả lời xã giao, đùa vui hay đang mở lòng.</div>
+        </div>
+        <div class="tip-box">
+          <div class="tip-title">2. Gợi mở câu chuyện</div>
+          <div class="tip-desc">Không trả lời cụt lủn, hãy biến câu rep thành chiếc móc câu kích thích bạn nữ tò mò rep lại.</div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- CENTER COLUMN: 9:16 Full-Height Phone in Cinema Spotlight -->
+    <main class="cinema-center">
+      <div class="phone-spotlight">
+        <div class="phone-container">
+          
+          <!-- Phone Status Bar -->
+          <div class="status-bar">
+            <span class="status-time" id="statusClock">22:42</span>
+            <div class="status-notch">
+              <div class="notch-camera"></div>
+            </div>
+            <div class="status-indicators">
+              <svg viewBox="0 0 24 24" width="13" height="13" fill="currentColor"><path d="M12 4C7.31 4 3.07 5.9 0 8.98L12 21 24 8.98A16.88 16.88 0 0 0 12 4z"/></svg>
+              <svg viewBox="0 0 24 24" width="13" height="13" fill="currentColor"><path d="M2 22h20V2z"/></svg>
+              <span class="battery-pct">56%</span>
+            </div>
+          </div>
+
+          <!-- Bumble Chat Header -->
+          <div class="bumble-header">
+            <div class="header-left">
+              <button class="icon-btn" id="btnBackRandom" title="Bốc tình huống ngẫu nhiên khác (Ctrl + Enter)">
+                <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+                  <polyline points="15 18 9 12 15 6"></polyline>
+                </svg>
+              </button>
+              
+              <div class="avatar-wrap">
+                <div class="avatar" id="avatarText">A</div>
+                <span class="online-dot"></span>
+              </div>
+
+              <div class="header-user-info">
+                <div class="user-name" id="partnerName">Annie</div>
+                <div class="turn-counter" id="turnCounter">Lượt 1 / 10</div>
+              </div>
+            </div>
+
+            <div class="header-right">
+              <button class="nav-btn-random" id="btnRandomCase" title="Bốc ngẫu nhiên tình huống khác (Ctrl + Enter)">
+                🎲 Đổi case
+              </button>
+              <button class="nav-btn-restart" id="btnRestartChat" title="Chơi từ đầu cuộc trò chuyện này">
+                ⏮
+              </button>
+            </div>
+          </div>
+
+          <!-- Chat Body (Messages Scroll Area) -->
+          <div class="chat-body" id="chatBody">
+            <div class="history-hint">
+              <span>Scroll lên để đọc lại các tin nhắn trước</span>
+            </div>
+          </div>
+
+          <!-- Bumble Footer Input Bar (TỰ ĐỘNG TIẾP TỤC CASE, KHÔNG CẦN CHỌN) -->
+          <div class="chat-footer">
+            <button class="footer-media-btn" title="Gửi ảnh">
+              <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"></path>
+                <circle cx="12" cy="13" r="4"></circle>
+              </svg>
+            </button>
+
+            <div class="input-pill" id="inputPill">
+              <input 
+                type="text" 
+                id="chatInput" 
+                class="input-field" 
+                placeholder="Nhập câu rep của bạn để gửi..." 
+                autocomplete="off"
+              />
+              <span class="gif-badge">GIF</span>
+            </div>
+
+            <button class="btn-send-circle disabled" id="btnSend" title="Gửi câu rep của bạn (Enter)">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor">
+                <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Home indicator at bottom -->
+          <div class="home-indicator"></div>
+
+        </div>
+      </div>
+    </main>
+
+    <!-- RIGHT WING: Guide & Hotkeys -->
+    <aside class="cinema-wing right-wing">
+      <div class="glass-card guide-card">
+        <div class="card-title">📖 Hướng dẫn sử dụng</div>
+        <div class="guide-steps">
+          <div class="step-item">
+            <span class="step-badge">1</span>
+            <div><strong>Đọc ngữ cảnh:</strong> Cuộn chuột lên xem các tin trước để hiểu bối cảnh.</div>
+          </div>
+          <div class="step-item">
+            <span class="step-badge">2</span>
+            <div><strong>Tự nghĩ câu rep:</strong> Đặt mình vào nhân vật nền vàng, gõ câu trả lời.</div>
+          </div>
+          <div class="step-item">
+            <span class="step-badge">3</span>
+            <div><strong>Gửi tin:</strong> Nhấn <kbd>Enter</kbd> để gửi và xem ngay phản hồi của bạn nữ.</div>
+          </div>
+          <div class="step-item">
+            <span class="step-badge">4</span>
+            <div><strong>Mặc định tiếp tục:</strong> Bạn nữ rep xong là ô chat tự mở để bạn rep tiếp. Muốn đổi bạn khác nhấn <kbd>Ctrl + Enter</kbd>.</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="glass-card hotkey-card">
+        <div class="card-title">⌨️ Phím tắt nhanh</div>
+        <div class="hotkey-row">
+          <kbd>Enter</kbd>
+          <span>Gửi câu rep</span>
+        </div>
+        <div class="hotkey-row">
+          <kbd>Ctrl + Enter</kbd>
+          <span>Random case mới</span>
+        </div>
+        <div class="hotkey-row">
+          <kbd>admin</kbd>
+          <span>Quản trị & Sửa database</span>
+        </div>
+      </div>
+    </aside>
+
+  </div>
+
+  <!-- ADMIN INSPECTOR & EDITOR MODAL: Mở khi gõ 'admin' -->
+  <div class="admin-modal-overlay hidden" id="adminModal">
+    <div class="admin-box">
+      <!-- Admin Header -->
+      <div class="admin-header">
+        <div class="admin-title">
+          <span class="admin-shield">🛡️</span>
+          <div>
+            <strong>CHẾ ĐỘ QUẢN TRỊ VIÊN (ADMIN DATABASE MANAGER)</strong>
+            <small>Xem, sửa thẳng vào file JSON và tạo mới cuộc trò chuyện</small>
+          </div>
+        </div>
+        <div class="admin-top-actions">
+          <button class="btn-admin-new-case" id="btnAdminNewCase">
+            ➕ Tạo mới Case
+          </button>
+          <button class="admin-close-btn" id="btnAdminClose" title="Đóng (Esc)">✕</button>
+        </div>
+      </div>
+
+      <!-- Admin Main Body (2 Modes: Editor view or Create new case view) -->
+      <div class="admin-body">
+        
+        <!-- Cột trái: Danh sách các case -->
+        <div class="admin-chat-list" id="adminChatList">
+          <div class="admin-list-header">
+            <span>Danh sách cuộc trò chuyện</span>
+          </div>
+          <div class="admin-list-items" id="adminListItems"></div>
+        </div>
+
+        <!-- Cột phải 1: Chế độ Xem & Sửa trực tiếp vào Database -->
+        <div class="admin-chat-view" id="adminViewPane">
+          <div class="admin-view-header">
+            <div class="admin-current-meta">
+              <span class="admin-partner-name" id="adminViewPartnerName">Chưa chọn</span>
+              <span class="admin-partner-count" id="adminViewCount">0 tin nhắn</span>
+            </div>
+            <div class="admin-actions-group">
+              <button class="btn-admin-save" id="btnAdminSaveDb" title="Lưu các chỉnh sửa thẳng vào file JSON">
+                💾 Lưu vào Database
+              </button>
+              <button class="btn-admin-play" id="btnAdminPlayCase" title="Nạp case này vào màn hình chính để chơi">
+                🎮 Tải vào màn hình chính
+              </button>
+            </div>
+          </div>
+
+          <!-- Danh sách tin nhắn có thể sửa trực tiếp -->
+          <div class="admin-messages-scroll" id="adminMessagesScroll">
+            <div class="admin-empty-hint">Chọn một cuộc trò chuyện bên trái để xem và sửa</div>
+          </div>
+
+          <!-- Thanh thêm tin nhắn mới vào cuộc trò chuyện đang xem -->
+          <div class="admin-add-msg-bar">
+            <select id="adminNewMsgSender" class="admin-select-sender">
+              <option value="Anh Hoang">Anh Hoang (Mình - Vàng)</option>
+              <option value="partner" id="optPartnerName">Đối phương (Xám)</option>
+            </select>
+            <input type="text" id="adminNewMsgText" class="admin-msg-input" placeholder="Nhập nội dung tin nhắn mới cần thêm..." />
+            <button class="btn-admin-add-msg" id="btnAdminAddMsg">➕ Thêm tin</button>
+          </div>
+        </div>
+
+        <!-- Cột phải 2: Chế độ Tạo mới Case (Ẩn mặc định) -->
+        <div class="admin-create-view hidden" id="adminCreatePane">
+          <div class="admin-view-header">
+            <div class="admin-current-meta">
+              <span class="admin-partner-name">➕ Tạo mới cuộc trò chuyện</span>
+            </div>
+            <button class="btn-admin-cancel-create" id="btnCancelCreate">
+              ✕ Hủy bỏ
+            </button>
+          </div>
+
+          <div class="admin-create-body">
+            <div class="create-mode-tabs">
+              <button class="tab-btn active" id="tabFormMode">📝 Nhập qua Form</button>
+              <button class="tab-btn" id="tabJsonMode">📋 Nhập bằng JSON Format</button>
+            </div>
+
+            <!-- Tab 1: Nhập Form -->
+            <div class="tab-content" id="contentFormMode">
+              <div class="form-group">
+                <label>Tên bạn nữ / Đối tượng:</label>
+                <input type="text" id="createFormName" class="form-control" placeholder="Ví dụ: Thuỳ Linh, Mai Chi, Huyền..." />
+              </div>
+
+              <div class="form-group">
+                <label>Các tin nhắn ban đầu (tùy chọn thêm trước):</label>
+                <div class="create-msgs-list" id="createMsgsList"></div>
+                <div class="create-add-row">
+                  <select id="createMsgSender" class="admin-select-sender">
+                    <option value="Anh Hoang">Anh Hoang (Mình)</option>
+                    <option value="partner">Bạn nữ</option>
+                  </select>
+                  <input type="text" id="createMsgText" class="admin-msg-input" placeholder="Nội dung tin nhắn..." />
+                  <button class="btn-admin-add-msg" id="btnCreateAddRow">Thêm</button>
+                </div>
+              </div>
+            </div>
+
+            <!-- Tab 2: Nhập JSON -->
+            <div class="tab-content hidden" id="contentJsonMode">
+              
+              <!-- Thanh công cụ hỗ trợ AI & Format -->
+              <div class="json-guide-bar">
+                <div class="json-guide-title">
+                  <span>🤖 <strong>Quy chuẩn JSON cho AI đọc hiểu</strong></span>
+                  <small>Copy prompt mẫu đưa cho AI (ChatGPT/Claude) để tự động xuất đúng JSON</small>
+                </div>
+                <div class="json-guide-actions">
+                  <button type="button" class="btn-guide-action btn-copy-prompt" id="btnCopyAiPrompt" title="Copy prompt mẫu hoàn chỉnh để dán vào ChatGPT / Claude">
+                    📋 Copy Prompt mẫu cho AI
+                  </button>
+                  <button type="button" class="btn-guide-action btn-sample-json" id="btnFillSampleJson" title="Nạp nhanh đoạn JSON mẫu để xem trước">
+                    📄 Nạp JSON mẫu
+                  </button>
+                  <button type="button" class="btn-guide-action" id="btnToggleJsonGuide">
+                    📖 Xem hướng dẫn Schema
+                  </button>
+                </div>
+              </div>
+
+              <!-- Bảng hướng dẫn chi tiết (có thể đóng/mở) -->
+              <div class="json-guide-box" id="jsonGuideBox">
+                <div class="guide-box-header">
+                  <strong>📌 Quy ước các trường trong JSON:</strong>
+                </div>
+                <div class="guide-rules-grid">
+                  <div class="guide-rule-item">
+                    <code>doi_tuong</code>
+                    <span>Tên bạn nữ (Ví dụ: <em>"Thuỳ Linh"</em>, <em>"Mai Chi"</em>). Hiển thị trên đầu điện thoại.</span>
+                  </div>
+                  <div class="guide-rule-item">
+                    <code>nguoi_gui</code>
+                    <span><strong>"Anh Hoang"</strong> (hoặc "Mình") cho phe người chơi (vàng); Ghi <strong>đúng tên bạn nữ</strong> cho đối phương (trắng).</span>
+                  </div>
+                  <div class="guide-rule-item">
+                    <code>loai</code>
+                    <span><code>"text"</code> (chữ), <code>"image"</code> (ảnh), <code>"gif"</code> (ảnh GIF), <code>"voice"</code> (tin thoại).</span>
+                  </div>
+                  <div class="guide-rule-item">
+                    <code>tra_loi_cho</code>
+                    <span>(Tùy chọn) Nếu là tin trích dẫn: <code>{"nguoi_gui": "...", "noi_dung": "..."}</code>.</span>
+                  </div>
+                  <div class="guide-rule-item">
+                    <code>id</code>
+                    <span>Số nguyên tăng dần liên tục: 1, 2, 3... theo đúng thứ tự thời gian.</span>
+                  </div>
+                </div>
+              </div>
+
+              <div class="form-group" style="margin-top: 14px;">
+                <label>Paste nội dung JSON vào đây (hệ thống tự kiểm tra và nạp):</label>
+                <textarea id="createJsonTextarea" class="form-control-textarea" rows="14" placeholder='{\n  "cuoc_tro_chuyen": {\n    "doi_tuong": "Thuỳ Linh",\n    "chu_thich_mau": {\n      "nen_trang": "Đối phương (Thuỳ Linh)",\n      "nen_vang": "Mình (Anh Hoang)"\n    },\n    "tin_nhan": [\n      {"id": 1, "nguoi_gui": "Thuỳ Linh", "loai": "text", "noi_dung": "anh làm bên mảng nào thế"},\n      {"id": 2, "nguoi_gui": "Anh Hoang", "loai": "text", "noi_dung": "A làm kỹ sư phần mềm :>"}\n    ]\n  }\n}'></textarea>
+              </div>
+            </div>
+
+            <div class="create-submit-bar">
+              <button class="btn-create-submit" id="btnSubmitCreateCase">
+                💾 Lưu & Tạo Case Mới Vào Database
+              </button>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Admin Footer -->
+      <div class="admin-footer">
+        <span>💡 Gõ <strong>admin</strong> ở bất kỳ đâu để mở bảng này. Mọi thay đổi lưu vào database sẽ được ghi thẳng vào file <strong>.json</strong> tương ứng.</span>
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/app.js?v=20261023_admin2"></script>
+</body>
+</html>

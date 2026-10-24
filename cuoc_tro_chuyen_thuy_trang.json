@@ -1,0 +1,28 @@
+{
+  "cuoc_tro_chuyen": {
+    "doi_tuong": "Thuỳ Trang",
+    "chu_thich_mau": {
+      "nen_trang": "Đối phương (Thuỳ Trang)",
+      "nen_vang": "Mình (Anh Hoang)"
+    },
+    "tin_nhan": [
+      {"id": 1, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Đố e biết nhìn e tôi thấy gì 😇"},
+      {"id": 2, "nguoi_gui": "Thuỳ Trang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "cgi co a"},
+      {"id": 3, "nguoi_gui": "Thuỳ Trang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "[ký tự lỗi trong ảnh gốc]"},
+      {"id": 4, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Muốn đc êu mà ít đc yên 😁"},
+      {"id": 5, "nguoi_gui": "Thuỳ Trang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "ai lgi mà k dc yennnn"},
+      {"id": 6, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "E vô tư mà"},
+      {"id": 7, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Có điều ng đến vs e mới abcxyz"},
+      {"id": 8, "nguoi_gui": "Thuỳ Trang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "abcxyz là xaoo"},
+      {"id": 9, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "K wuan trọng nữa r"},
+      {"id": 10, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Có a đây 😁"},
+      {"id": 11, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "K ai trêu đùa bé khờ đc nữa"},
+      {"id": 12, "nguoi_gui": "Thuỳ Trang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "the co a"},
+      {"id": 13, "nguoi_gui": "Thuỳ Trang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "the a se lgi cho e nao"},
+      {"id": 14, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "E có bt"},
+      {"id": 15, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Sự xuất hiện của đúng ng là cả 1 phép màu k"},
+      {"id": 16, "nguoi_gui": "Thuỳ Trang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "the a thấy e xuất hiện có đúng lúc hog"},
+      {"id": 17, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Có chứ, như ma thuật đen vậy"}
+    ]
+  }
+}

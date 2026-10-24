@@ -1,0 +1,37 @@
+{
+  "cuoc_tro_chuyen": {
+    "doi_tuong": "Chip",
+    "chu_thich_mau": {
+      "nen_trang": "Đối phương (Chip)",
+      "nen_vang": "Mình (Anh Hoang)"
+    },
+    "tin_nhan": [
+      {"id": 1, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Đến giờ thức giấc r công chúa 😇"},
+      {"id": 2, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "helo a ạ"},
+      {"id": 3, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "h nay ai ngủ chu", "tra_loi_cho": {"nguoi_gui": "Anh Hoang", "noi_dung": "Đến giờ thức giấc r công chú..."}},
+      {"id": 4, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Mắt e chưa ngủ, nhưng tim lại đã lâu chưa thức 🤭"},
+      {"id": 5, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "lòng e cx ch có thêm ai", "tra_loi_cho": {"nguoi_gui": "Anh Hoang", "noi_dung": "Mắt e chưa ngủ, nhưng tim l..."}},
+      {"id": 6, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "So tell me"},
+      {"id": 7, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "E vẫn đang đợi điều gì"},
+      {"id": 8, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "đợi ai matching vào th"},
+      {"id": 9, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "mà ch thấy"},
+      {"id": 10, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "A biết vì sao rồi"},
+      {"id": 11, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "tsao v"},
+      {"id": 12, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "E có vibe khiến các vệ tinh ngại"},
+      {"id": 13, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Nhưng nó chưa bh làm khó đc a 😏"},
+      {"id": 14, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "thế la a k bt ngại"},
+      {"id": 15, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "hay a k ngại e"},
+      {"id": 16, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Ngại k quan trọng, quan trọng là em có dám thử những thứ mới hay k"},
+      {"id": 17, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "e k dám thử thì e nhắn cho a lmg"},
+      {"id": 18, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "E đã bản lĩnh như vậy thì tôi cũng k ngại làm chỗ dựa tinh thần 🤭"},
+      {"id": 19, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "chỗ dựa này có chắc chắn k đấy"},
+      {"id": 20, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Chưa từng có review k chắc chắn"},
+      {"id": 21, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "thế để e thử xong rv nhe"},
+      {"id": 22, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Thử thôi lại k ra kết quả"},
+      {"id": 23, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Thật mới ra nhó"},
+      {"id": 24, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "thế a muốn e thử k"},
+      {"id": 25, "nguoi_gui": "Chip", "loai": "text", "ngay": "Hôm nay", "noi_dung": "xem có ra gi k"},
+      {"id": 26, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "E làm a cũng muốn biết e có ra gì k đấy 🤭"}
+    ]
+  }
+}

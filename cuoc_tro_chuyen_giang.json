@@ -1,0 +1,20 @@
+{
+  "cuoc_tro_chuyen": {
+    "doi_tuong": "Giang",
+    "chu_thich_mau": {
+      "nen_trang": "Đối phương (Giang)",
+      "nen_vang": "Mình"
+    },
+    "tin_nhan": [
+      {"id": 1, "nguoi_gui": "Mình", "loai": "text", "noi_dung": "Cạ music box đây r 😄"},
+      {"id": 2, "nguoi_gui": "Giang", "loai": "text", "noi_dung": "úi"},
+      {"id": 3, "nguoi_gui": "Giang", "loai": "text", "noi_dung": "có khi lại là cạ ăn uống nữa tại em thấy người ăn phở có hành 😋"},
+      {"id": 4, "nguoi_gui": "Mình", "loai": "text", "noi_dung": "K những thế, em còn thích biển"},
+      {"id": 5, "nguoi_gui": "Mình", "loai": "text", "noi_dung": "Nhà tôi có biển 🤭"},
+      {"id": 6, "nguoi_gui": "Giang", "loai": "text", "noi_dung": "nhà anh ở đâu mà lại có biển thhss"},
+      {"id": 7, "nguoi_gui": "Mình", "loai": "text", "noi_dung": "Nào về em sẽ biết thôi 😄"},
+      {"id": 8, "nguoi_gui": "Giang", "loai": "text", "noi_dung": "thế là phải về mới biết được ạ"},
+      {"id": 9, "nguoi_gui": "Mình", "loai": "text", "noi_dung": "Được về chứ"}
+    ]
+  }
+}

@@ -1,0 +1,519 @@
+{
+  "cuoc_tro_chuyen": {
+    "doi_tuong": "Napeoo",
+    "chu_thich_mau": {
+      "nen_trang": "Đối phương (Napeoo)",
+      "nen_vang": "Mình (Anh Hoang)"
+    },
+    "tin_nhan": [
+      {
+        "id": 1,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Em gần tôi quá r đấy 😁"
+      },
+      {
+        "id": 2,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Gần lắm ạ"
+      },
+      {
+        "id": 3,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "A ở đâu ạ"
+      },
+      {
+        "id": 4,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "E hay qua Hà Đông chơi k"
+      },
+      {
+        "id": 5,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Em khum hay qua lắm tại không có bạn bên đó"
+      },
+      {
+        "id": 6,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Vậy thì có a đây r"
+      },
+      {
+        "id": 7,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Khai mở cho e thế giới mới 😉"
+      },
+      {
+        "id": 8,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Zị tốt quá òiii"
+      },
+      {
+        "id": 9,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Nhưng trc tiên trl bio a cái đã nhỏ"
+      },
+      {
+        "id": 10,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Haha e ăn được hành ạ 😂 không hành trông kì vô cùng"
+      },
+      {
+        "id": 11,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Vậy là chta có 3 điểm chung r đấy 😉"
+      },
+      {
+        "id": 12,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Là những gì ạ e thấy ăn hành với yêu mèo giống nhau"
+      },
+      {
+        "id": 13,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Cả phim kinh dị nữa"
+      },
+      {
+        "id": 14,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Bé xem lời nguyền đông cung chưa"
+      },
+      {
+        "id": 15,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Em chưa ạ"
+      },
+      {
+        "id": 16,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Phim kinh dị nào ra rạp mà nổi nổi thì đi xem thui chứ e không tìm xem hết các phim kdi"
+      },
+      {
+        "id": 17,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Đúng r, mấy bộ còn lại phải có ny xem cùng mới vui chứ"
+      },
+      {
+        "id": 18,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Với e thí điểm chung nứa"
+      },
+      {
+        "id": 19,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Mù đường"
+      },
+      {
+        "id": 20,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": ":v"
+      },
+      {
+        "id": 21,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Khá chắc e có 1 kỷ niệm để kể về cái này :v"
+      },
+      {
+        "id": 22,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Mới đây thui ở đường đằng sau nhà e ở trọ 3 năm ngta đang xây đường xong chặn đường cũ ý ạ xong e phải mò đi đường khác e lạc luôn 😅 ở lâu lắm rồi nma chỉ biết 1 đường về nhà mình"
+      },
+      {
+        "id": 23,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Đồng đội là đây chứ đâu"
+      },
+      {
+        "id": 24,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Chỉ đi đường hay đi"
+      },
+      {
+        "id": 25,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Chỉ ăn quán hay ăn"
+      },
+      {
+        "id": 26,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Chỉ cf quán hay ngồi 😁"
+      },
+      {
+        "id": 27,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Đúm òi ah haha"
+      },
+      {
+        "id": 28,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "V e tìm kiếm điều j trong tình èu"
+      },
+      {
+        "id": 29,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "E muốn có người hiểu mình cả hai vui vẻ thoải mái trong mối qhe này thui"
+      },
+      {
+        "id": 30,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Giờ thì k nghi ngờ gì nữa r",
+        "tra_loi_cho": {
+          "nguoi_gui": "Napeoo",
+          "noi_dung": "E muốn có người hiểu mình c..."
+        }
+      },
+      {
+        "id": 31,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Sao vậy ạ -.-"
+      },
+      {
+        "id": 32,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Ưu tiên hài hoà cảm xúc hơn lý trí"
+      },
+      {
+        "id": 33,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Em thật sự chung đội vs anh đấy :v"
+      },
+      {
+        "id": 34,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Đúm òi ạ mình hợp nch vui vẻ với nhau là được chứ e cũng không có yêu cầu hay gu cụ thể"
+      },
+      {
+        "id": 35,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Cảm xúc minhd thui"
+      },
+      {
+        "id": 36,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "E biết đấy gọi là gì k"
+      },
+      {
+        "id": 37,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Là gì ạ"
+      },
+      {
+        "id": 38,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Là tâm đầu ý hợp 😊"
+      },
+      {
+        "id": 39,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Mà sao lại giống nhao quá trời"
+      },
+      {
+        "id": 40,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Duyên số bất ngờ mà"
+      },
+      {
+        "id": 41,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Nhưng vẫn có điểm khác lớn e biết k"
+      },
+      {
+        "id": 42,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Điểm gì ạ"
+      },
+      {
+        "id": 43,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "A là đàn ông, còn em là ng cần đc vỗ về 😊"
+      },
+      {
+        "id": 44,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Ui mình qua ig nch được không ạ"
+      },
+      {
+        "id": 45,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "E đợi đc đến t6 k"
+      },
+      {
+        "id": 46,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Được ạ"
+      },
+      {
+        "id": 47,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Nice, e thích đưa trực tiếp hay gián tiếp nào"
+      },
+      {
+        "id": 48,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Kiểu nào cũm được ạ [ký tự lỗi trong ảnh gốc]"
+      },
+      {
+        "id": 49,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Okay, vậy thì tùy vào cảm xúc Na nhó"
+      },
+      {
+        "id": 50,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Anh ăn ún gì chưa ạ"
+      },
+      {
+        "id": 51,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Tối nay e có món gì"
+      },
+      {
+        "id": 52,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Nai e nấu sườn chua ngọt, trứng ốp với rau luộc hoy"
+      },
+      {
+        "id": 53,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Đố e câu dễ này, trong mâm của e có món a thích nhất đấy"
+      },
+      {
+        "id": 54,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Sườn ạ"
+      },
+      {
+        "id": 55,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "A đã hy vọng e sẽ đưa 1 câu trl ngốc nghếch"
+      },
+      {
+        "id": 56,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Thất vọng quá 😁"
+      },
+      {
+        "id": 57,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Đưa ra câu tlọi như nào ạ -.-"
+      },
+      {
+        "id": 58,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Bảo a thích rau luộc chẳng hạn ohoho"
+      },
+      {
+        "id": 59,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Khum ạ bth ít ai thích vậy lúm"
+      },
+      {
+        "id": 60,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Hẹn 1 ngày đẹp trời"
+      },
+      {
+        "id": 61,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Chta đi siêu thị"
+      },
+      {
+        "id": 62,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Rồi e trổ tài nhé"
+      },
+      {
+        "id": 63,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "[ký tự lỗi trong ảnh gốc] dạ nếu có duyên ạ"
+      },
+      {
+        "id": 64,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Sau đấy tầng 2, e thích làm gì [ký tự lỗi trong ảnh gốc]"
+      },
+      {
+        "id": 65,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Nếu là ngiu với nhau thì e thích nằm ôm"
+      },
+      {
+        "id": 66,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Nằm nch với nhau hay chơi game cùm"
+      },
+      {
+        "id": 67,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "E biết hát k để a đệm đàn"
+      },
+      {
+        "id": 68,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Em hong ạ -.-"
+      },
+      {
+        "id": 69,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Vậy là tốt r"
+      },
+      {
+        "id": 70,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "A cũng kb đánh đàn 😀↔️"
+      },
+      {
+        "id": 71,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "😂 a hỏi e tưởng a bít chơi đàn"
+      },
+      {
+        "id": 72,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "A biết chơi cái khác hay hơn, đố e đoán đc"
+      },
+      {
+        "id": 73,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Về nhạc cụ hay game hay thể thao ạ"
+      },
+      {
+        "id": 74,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Rộng quá e đoán hong được"
+      },
+      {
+        "id": 75,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Về tâm linh đi"
+      },
+      {
+        "id": 76,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Chơi bừa ạ"
+      },
+      {
+        "id": 77,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": ":v"
+      },
+      {
+        "id": 78,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Hoang dã quá đấy :v"
+      },
+      {
+        "id": 79,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Vậy là gì ạ"
+      },
+      {
+        "id": 80,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Bói ạ"
+      },
+      {
+        "id": 81,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Xem tử vi"
+      },
+      {
+        "id": 82,
+        "nguoi_gui": "Napeoo",
+        "loai": "text",
+        "noi_dung": "Tarot"
+      },
+      {
+        "id": 83,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Gần đúng r đấy"
+      },
+      {
+        "id": 84,
+        "nguoi_gui": "Anh Hoang",
+        "loai": "text",
+        "noi_dung": "Gặp sẽ biết kkk"
+      }
+    ]
+  }
+}

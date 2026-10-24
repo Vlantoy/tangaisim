@@ -1,0 +1,30 @@
+{
+  "cuoc_tro_chuyen": {
+    "doi_tuong": "Thùy Anh",
+    "chu_thich_mau": {
+      "nen_trang": "Đối phương (Thùy Anh)",
+      "nen_vang": "Mình (Anh Hoang)"
+    },
+    "tin_nhan": [
+      {"id": 1, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Hello, soul mate của e tới r đây"},
+      {"id": 2, "nguoi_gui": "Thùy Anh", "loai": "text", "ngay": "Hôm nay", "noi_dung": "=))) đou"},
+      {"id": 3, "nguoi_gui": "Thùy Anh", "loai": "text", "ngay": "Hôm nay", "noi_dung": "chưa thấy rõ lắm"},
+      {"id": 4, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Tặng e cây kính 🕶️"},
+      {"id": 5, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "E cận hay viễn"},
+      {"id": 6, "nguoi_gui": "Thùy Anh", "loai": "text", "ngay": "Hôm nay", "noi_dung": "cận với loạn"},
+      {"id": 7, "nguoi_gui": "Thùy Anh", "loai": "text", "ngay": "Hôm nay", "noi_dung": "=)) mà bnhiu tủi mà gọi ngta là em zạ"},
+      {"id": 8, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Trông vậy nhưng kp vậy bé ạ", "tra_loi_cho": {"nguoi_gui": "Thùy Anh", "noi_dung": "=)) mà bnhiu tủi mà gọi ngta l..."}},
+      {"id": 9, "nguoi_gui": "Thùy Anh", "loai": "text", "ngay": "Hôm nay", "noi_dung": "ỏ"},
+      {"id": 10, "nguoi_gui": "Thùy Anh", "loai": "text", "ngay": "Hôm nay", "noi_dung": "z cho bé hỏi là ko phải vậy là như nào đi"},
+      {"id": 11, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "Trên thang điểm từ 1 đến 10"},
+      {"id": 12, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "E nghĩ a hơn e bao tuổi 🙂"},
+      {"id": 13, "nguoi_gui": "Thùy Anh", "loai": "text", "ngay": "Hôm nay", "noi_dung": "1"},
+      {"id": 14, "nguoi_gui": "Thùy Anh", "loai": "text", "ngay": "Hôm nay", "noi_dung": "=))"},
+      {"id": 15, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "thiếu 0.5"},
+      {"id": 16, "nguoi_gui": "Thùy Anh", "loai": "text", "ngay": "Hôm nay", "noi_dung": "là seo"},
+      {"id": 17, "nguoi_gui": "Thùy Anh", "loai": "text", "ngay": "Hôm nay", "noi_dung": "z là 2k mấy"},
+      {"id": 18, "nguoi_gui": "Thùy Anh", "loai": "text", "ngay": "Hôm nay", "noi_dung": "=)))"},
+      {"id": 19, "nguoi_gui": "Anh Hoang", "loai": "text", "ngay": "Hôm nay", "noi_dung": "2k1.5 nhé em iu"}
+    ]
+  }
+}
